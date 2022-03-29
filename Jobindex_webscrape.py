@@ -47,9 +47,26 @@ def transform(soup):
         joblist.append(job)
     return
 
-
-keywords1 = input("Hvor søger du?: ") 
+#keywords1 = input("Hvor søger du?: ")
 keywords2 = input("Hvad søger du?: ")
+
+område = ["storkoebenhavn", "nordsjaelland", "region-sjaelland"]
+print("Vælg det ønsket jobområde: ")
+x = 0
+while x < len(område):
+    print("Mulighed: ",x+1, område[x])
+    x+=1
+keywords1 = int(input("Vælg det ønsket nummer: "))
+print("Du har valgt ", område[keywords1-1])
+
+if keywords1 == int("1"):
+    keywords1 = "storkoebenhavn"
+elif keywords1 == int("2"):
+    keywords1 = "nordsjaelland"
+elif keywords1 == int("3"):
+    keywords1 = "region-sjaelland"
+else:
+    print("område ikke på liste")
 
 #Applying function
 for x in range(1,10):
