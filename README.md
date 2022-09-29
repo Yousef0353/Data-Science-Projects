@@ -12,7 +12,7 @@ It is not the world's most advanced system, but a simple mini-project for a youn
 I have worked on webscraping the website Jobindex, which is why you can search for the desired area, keyword and number of pages. In addition, as a user, I would like to receive the following information:
 
 * Title
-* Corporation
+* Company
 * Date
 * Job description
 * Company location
