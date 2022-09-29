@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science Projects
 
 A repository of the projects I worked on or currently working on. It is updated regularly. The projects are written Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
@@ -21,3 +21,5 @@ I have worked on webscraping the website Jobindex, which is why you can search f
 It's a simple project, but has been incredibly educational, and see how you can automate something as practical as searching for job postings. I'm already looking forward to what my next project will be 💪
 
 ![1648297084634](https://user-images.githubusercontent.com/48699814/193036845-86e0117d-74d1-40a7-af04-d6fd49fbca19.jpg)
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
