@@ -3,7 +3,7 @@
 A repository of the projects I worked on or currently working on. It is updated regularly. The projects are written Python (Jupyter Notebook). Click on the projects to see full analysis and code.
 
 ## Project 1:
-### Webscrapping Danish largest Jobportal: **Jobindex**.
+### Webscrapping Danish largest Jobportal **Jobindex**
 
 Wouldn't it just be easy if you could get a list of all the job postings you find interesting with a single click. Instead of having to go through 5-10 pages or maybe more? 🧐
 
